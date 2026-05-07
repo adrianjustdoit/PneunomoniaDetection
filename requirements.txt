@@ -2,7 +2,7 @@ streamlit==1.57.0
 torch==2.11.0
 torchvision==0.26.0
 numpy==2.4.4
-opencv-python==4.13.0.92
+opencv-python-headless==4.13.0.92
 scikit-image==0.26.0
 scikit-learn==1.8.0
 scipy==1.17.1
